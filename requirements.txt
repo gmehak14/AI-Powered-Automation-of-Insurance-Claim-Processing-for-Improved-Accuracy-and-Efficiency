@@ -2,11 +2,10 @@ langchain_community
 easyocr
 pdf2image
 numpy
-pdf2image
 matplotlib
-langchain_openai
+langchain-google-genai
 python-dotenv
 PyPDF2
 flask
 opencv-python
-tiktoken
+scikit-learn
